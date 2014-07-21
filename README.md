@@ -4,6 +4,7 @@
 Inspired by [progressed.io](https://github.com/fehmicansaglam/progressed.io), I decided to replicate the functionality of the application using NodeJS.
 
 ## Deployment
+    npm install
     node app.js
     
 ## Development
