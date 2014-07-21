@@ -7,7 +7,7 @@ Inspired by [progressed.io](https://github.com/fehmicansaglam/progressed.io), I 
     node app.js
     
 ## Development
-[![Show me a Demo at Codio](//codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/matthewgall/nodejs-progressbar)
+[![Show me a Demo at Codio](http://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/matthewgall/nodejs-progressbar)
 
 ## Licence
 Copyright (c) 2014 Matthew Gall
